@@ -1,0 +1,9 @@
+#####################################################Plugin: YourPlugin#####################################################
+imports coding.yourname.base.plugincoding."myezplugincoding-VERSION"
+
+name = "&4&lYourPlugin: "
+color = "&6"
+
+
+if command is "test" then
+	game.send "Success this temeplate works!"

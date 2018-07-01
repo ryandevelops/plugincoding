@@ -1,0 +1,3 @@
+eula=false
+fullver=false
+#paid-eula=false
